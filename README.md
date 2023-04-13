@@ -1,1 +1,1 @@
-# paint-github-subscription-a3533
+# github-a3533
